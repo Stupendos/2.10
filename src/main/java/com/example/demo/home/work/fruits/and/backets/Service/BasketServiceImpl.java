@@ -1,6 +1,6 @@
-package Service;
-import Basket.Basket;
-import Items.Items;
+package com.example.demo.home.work.fruits.and.backets.Service;
+import com.example.demo.home.work.fruits.and.backets.Basket.Basket;
+import com.example.demo.home.work.fruits.and.backets.Items.Items;
 import org.springframework.stereotype.Service;
 import org.springframework.web.context.annotation.SessionScope;
 

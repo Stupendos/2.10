@@ -1,7 +1,7 @@
-package Controller;
+package com.example.demo.home.work.fruits.and.backets.Controller;
 
-import Service.BasketService;
-import Service.ItemsService;
+import com.example.demo.home.work.fruits.and.backets.Service.BasketService;
+import com.example.demo.home.work.fruits.and.backets.Service.ItemsService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
