@@ -1,10 +1,9 @@
-package Service;
+package com.example.demo.home.work.fruits.and.backets.Service;
 
-import Items.Items;
+import com.example.demo.home.work.fruits.and.backets.Items.Items;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 @Service

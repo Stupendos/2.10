@@ -1,4 +1,4 @@
-package Items;
+package com.example.demo.home.work.fruits.and.backets.Items;
 
 public class Items {
     private Integer id;
